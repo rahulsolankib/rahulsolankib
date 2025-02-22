@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rahulsolankib
 - 👀 I’m interested in developing readable, efficient softwares.
 - 🌱 I’m currently learning all things that helps me in building reliable softwares like backend frameworks mostly NodeJS, FastAPI, SOLID principles, Design Patterns, GCP and more.
-- 💞️ I’m looking to collaborate on any project.
+- 💞️ I’m open to collaborate on any project.
 - 📫 You can reach me on linkedIn - https://www.linkedin.com/in/rahul-solanki-93526514a/
 
 <!---
